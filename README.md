@@ -1,1 +1,1 @@
-# BTAdvanture-AJAX-Introduction-and-Fetch-Method---Assignment
+# AJAX-Introduction-and-Fetch-Method---Assignment
